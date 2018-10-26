@@ -25,4 +25,4 @@ This is a reading list for those interested in studying IoT Access Control.
 
 **IoT Surveys:**
 
--[A Survey of Machine and Deep Learning Methods for Internet of Things (IoT)](https://arxiv.org/pdf/1807.11023.pdf), Security arXiv, 2017
+- [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT)](https://arxiv.org/pdf/1807.11023.pdf), Security arXiv, 2017
