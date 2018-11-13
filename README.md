@@ -9,8 +9,6 @@ This is a reading list for those interested in studying IoT Access Control.
 
 - [SmartAuth: User-Centered Authorization for the Internet of Things USENIX Security](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf), 2017
 
-- [Rethinking Access Control and Authentication for the Home Internet of Things(IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf), USENIX Security, 2018
-
 - [HoMonit: Monitoring Smart Home Apps from Encrypted Traffic](http://web.cse.ohio-state.edu/~zhang.834/papers/ccs18.pdf), CCS, 2018
 
 - [Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types](http://mews.sv.cmu.edu/papers/oakland-18.pdf), IEEE S&P, 2018
@@ -40,6 +38,8 @@ This is a reading list for those interested in studying IoT Access Control.
 
 - [Situational Awareness based Risk-Adapatable Access Control in
 Enterprise Networks](https://arxiv.org/pdf/1710.09696.pdf), SACMAT, 2017
+
+- [Rethinking Access Control and Authentication for the Home Internet of Things(IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf), USENIX Security, 2018
 
 
 **Deep Learning Risk Analysis**
