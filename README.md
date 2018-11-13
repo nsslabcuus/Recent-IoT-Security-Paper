@@ -38,6 +38,9 @@ This is a reading list for those interested in studying IoT Access Control.
 
 - [On Risk in Access Control Enforcement](http://www.cse.psu.edu/~trj1/papers/sacmat17.pdf), SACMAT, 2017
 
+- [Situational Awareness based Risk-Adapatable Access Control in
+Enterprise Networks](https://arxiv.org/pdf/1710.09696.pdf), SACMAT, 2017
+
 
 **Deep Learning Risk Analysis**
 - [Tiresias: Predicting Security Events Through Deep Learning](https://ar-sec.cs.washington.edu/files/arsec-lebeck-sp18.pdf), CCS, 2018
