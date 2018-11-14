@@ -42,6 +42,8 @@ Enterprise Networks](https://arxiv.org/pdf/1710.09696.pdf), SACMAT, 2017
 
 - [Rethinking Access Control and Authentication for the Home Internet of Things(IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf), USENIX Security, 2018
 
+- [Towards PII-based Multiparty Access Control for
+Photo Sharing in Online Social Networks](http://delivery.acm.org/10.1145/3080000/3078875/p155-vishwamitra.pdf?ip=130.127.49.242&id=3078875&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542205943_829f86743b10976e87af68a96628009a), SACMAT , 2017
 
 **Deep Learning Risk Analysis**
 - [Tiresias: Predicting Security Events Through Deep Learning](https://ar-sec.cs.washington.edu/files/arsec-lebeck-sp18.pdf), CCS, 2018
