@@ -26,10 +26,11 @@ This is a reading list for those interested in studying IoT Access Control.
 
 - [SoK: Security Evaluation of Home-Based IoT Deployments](https://astrolavos.gatech.edu/articles/sok_sp19.pdf), IEEE S&P, 2019
 
-- [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](http://web.eecs.umich.edu/~jackjia/material/contexiot_ndss17.pdf), NDSS, 2017
 
 
 **Access Control**
+- [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](http://web.eecs.umich.edu/~jackjia/material/contexiot_ndss17.pdf), NDSS, 2017
+
 - [Tyche: Risk-Based Permissions for Smart Home Platforms](https://arxiv.org/pdf/1801.04609.pdf), IEEE SecDev, 2018
 
 - [Situational Access Control in the Internet of Things](https://www.cs.cornell.edu/~shmat/shmat_ccs18.pdf), CCS, 2018
@@ -62,7 +63,7 @@ of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=
 - [IotSan: Fortifying the Safety of IoT Systems](https://arxiv.org/pdf/1810.09551.pdf), CoNEXT, 2018
 
 - [SOTERIA: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf), USENIX ATC, 2018
-of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7906503), IEEE Access, 2017
+of the Internet of Things], IEEE Access, 2017
 
 
 **Surveys:**
