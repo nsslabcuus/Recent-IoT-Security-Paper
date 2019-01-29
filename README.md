@@ -71,6 +71,8 @@ of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=
 - [SOTERIA: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf), USENIX ATC, 2018
 of the Internet of Things], IEEE Access, 2017
 
+**Fuzzing**
+https://github.com/cpuu/awesome-fuzzing#papers
 
 **Surveys:**
 
