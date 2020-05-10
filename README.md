@@ -1,36 +1,38 @@
 **Access Control:**
-**Fuzzing:**
-**Surveys:**
-**Model Checking**
-**Vulnerability Detection:**
-- [Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems](https://xianghang.me/files/voice_assistant.pdf), IEEE S&P, 2019
+- [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf), NDSS, 2019
 
-- [Ask the Experts: What Should Be on an IoT Privacy and Security Label?](http://www.cs.cmu.edu/~pemamina/publication/SP'20/SP20.pdf), IEEE S&P, 2020
-
+**Protocols or Firmware:**
 - [Burglars' IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds](http://homes.sice.indiana.edu/luyixing/bib/oakland20-mqtt.pdf), IEEE S&P, 2020
 
-- [Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products](https://arxiv.org/pdf/1906.11094.pdf),IEEE S&P, 2020
+**Multi Users:**
 
+**Vulnerability Detection:**
 - [Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses](https://www.adwaitnadkarni.com/pdf/manandhar-oakland20.pdf), IEEE S&P, 2020
+
+**Voice Assitant:**
+- [Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems](https://xianghang.me/files/voice_assistant.pdf), IEEE S&P, 2019
+
+**Botnet:**
+- [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf), NDSS, 2019
+
+- [Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-2_Cetin_paper.pdf), NDSS, 2019
+
+- [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf), NDSS, 2020
+
+**User Study:**
+- [Ask the Experts: What Should Be on an IoT Privacy and Security Label?](http://www.cs.cmu.edu/~pemamina/publication/SP'20/SP20.pdf), IEEE S&P, 2020
+
+
+**Others:**
+- [Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products](https://arxiv.org/pdf/1906.11094.pdf),IEEE S&P, 2020
 
 - [SoK: Security Evaluation of Home-Based IoT Deployments](https://astrolavos.gatech.edu/articles/sok_sp19.pdf), IEEE S&P, 2019
 
 
-
-- [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf), NDSS, 2019
-
-- [Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-2_Cetin_paper.pdf), NDSS, 2019
-
-- [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf), NDSS, 2019
-
 - [Packet-Level Signatures for Smart Home Devices](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24097-paper.pdf), NDDS, 2020
 
-- [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf), NDSS, 2020
 
 
-
-
-- [Peeves: Physical Event Verification in Smart Homes](https://dl.acm.org/doi/pdf/10.1145/3319535.3354254), CCS, 2019
 
 - [If This Then What? Controlling Flows in IoT Apps](http://delivery.acm.org/10.1145/3250000/3243841/p1102-bastys.pdf?ip=130.127.49.242&id=3243841&acc=OPEN&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1542127402_7347f80f43130f7a4ba9369ed5037384), CCS, 2018
 
