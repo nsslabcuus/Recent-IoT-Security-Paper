@@ -1,83 +1,76 @@
-
-This is a reading list for those interested in studying IoT Access Control.
-
-**IoT Security:**
-
-- [Security Analysis of Emerging Smart Home Applications](http://iotsecurity.eecs.umich.edu/img/Fernandes_SmartThingsSP16.pdf), IEEE S&P, 2016
-
-- [FlowFence: Practical Data Protection for Emerging IoT Application Frameworks](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_fernandes.pdf), USENIX Security, 2016
-
-- [SmartAuth: User-Centered Authorization for the Internet of Things USENIX Security](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-tian.pdf), 2017
-
-- [HoMonit: Monitoring Smart Home Apps from Encrypted Traffic](http://web.cse.ohio-state.edu/~zhang.834/papers/ccs18.pdf), CCS, 2018
-
-- [Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types](http://mews.sv.cmu.edu/papers/oakland-18.pdf), IEEE S&P, 2018
-
-- [If This Then What? Controlling Flows in IoT Apps](http://delivery.acm.org/10.1145/3250000/3243841/p1102-bastys.pdf?ip=130.127.49.242&id=3243841&acc=OPEN&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1542127402_7347f80f43130f7a4ba9369ed5037384), CCS, 2018
-
-
+**Access Control:**
+**Fuzzing:**
+**Surveys:**
+**Model Checking**
 **Vulnerability Detection:**
+- [Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems](https://xianghang.me/files/voice_assistant.pdf), IEEE S&P, 2019
 
-- [IOTFUZZER:Discovering Memory Corruptions in IoT Through App-based Fuzzing](http://web.cse.ohio-state.edu/~lin.3021/file/NDSS18b.pdf), NDSS, 2018
+- [Ask the Experts: What Should Be on an IoT Privacy and Security Label?](http://www.cs.cmu.edu/~pemamina/publication/SP'20/SP20.pdf), IEEE S&P, 2020
 
-- [Fear and Logging in the Internet of Things](http://seclab.illinois.edu/wp-content/uploads/2017/12/wang2018fear.pdf), NDSS, 2018
+- [Burglars' IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds](http://homes.sice.indiana.edu/luyixing/bib/oakland20-mqtt.pdf), IEEE S&P, 2020
 
-- [Decentralized Action Integrity for Trigger-Action IoT Platforms](http://earlence.com/assets/papers/dtap_ndss18.pdf), NDDS, 2018
+- [Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products](https://arxiv.org/pdf/1906.11094.pdf),IEEE S&P, 2020
+
+- [Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses](https://www.adwaitnadkarni.com/pdf/manandhar-oakland20.pdf), IEEE S&P, 2020
 
 - [SoK: Security Evaluation of Home-Based IoT Deployments](https://astrolavos.gatech.edu/articles/sok_sp19.pdf), IEEE S&P, 2019
 
 
 
-**Access Control**
-- [ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms](http://web.eecs.umich.edu/~jackjia/material/contexiot_ndss17.pdf), NDSS, 2017
+- [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf), NDSS, 2019
 
-- [Tyche: Risk-Based Permissions for Smart Home Platforms](https://arxiv.org/pdf/1801.04609.pdf), IEEE SecDev, 2018
+- [Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-2_Cetin_paper.pdf), NDSS, 2019
+
+- [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf), NDSS, 2019
+
+- [Packet-Level Signatures for Smart Home Devices](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24097-paper.pdf), NDDS, 2020
+
+- [A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24161-paper.pdf), NDSS, 2020
+
+
+
+
+- [Peeves: Physical Event Verification in Smart Homes](https://dl.acm.org/doi/pdf/10.1145/3319535.3354254), CCS, 2019
+
+- [If This Then What? Controlling Flows in IoT Apps](http://delivery.acm.org/10.1145/3250000/3243841/p1102-bastys.pdf?ip=130.127.49.242&id=3243841&acc=OPEN&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1542127402_7347f80f43130f7a4ba9369ed5037384), CCS, 2018
+
+- [Charting the Attack Surface of Trigger-Action IoT Platforms](https://adambates.org/documents/Wang_Ccs19.pdf), CCS, 2019
+
+- [Pinto: Enabling Video Privacy for Commodity IoT Cameras](https://dl.acm.org/doi/pdf/10.1145/3243734.3243830), CCS, 2018
+
+- [HoMonit: Monitoring Smart Home Apps from Encrypted Traffic](http://web.cse.ohio-state.edu/~zhang.5840/assets/CCS2018/ccs18.pdf), CCS , 2018
 
 - [Situational Access Control in the Internet of Things](https://www.cs.cornell.edu/~shmat/shmat_ccs18.pdf), CCS, 2018
 
-- [On Risk in Access Control Enforcement](http://www.cse.psu.edu/~trj1/papers/sacmat17.pdf), SACMAT, 2017
-
-- [Situational Awareness based Risk-Adapatable Access Control in
-Enterprise Networks](https://arxiv.org/pdf/1710.09696.pdf), SACMAT, 2017
-
-- [Rethinking Access Control and Authentication for the Home Internet of Things(IoT)](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-he.pdf), USENIX Security, 2018
-
-- [Towards PII-based Multiparty Access Control for
-Photo Sharing in Online Social Networks](http://delivery.acm.org/10.1145/3080000/3078875/p155-vishwamitra.pdf?ip=130.127.49.242&id=3078875&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542205943_829f86743b10976e87af68a96628009a), SACMAT , 2017
-
-- [AuDroid: Preventing Attacks on Audio Channels
-in Mobile Devices](https://arxiv.org/pdf/1604.00320.pdf), ACSAC, 2015
 
 
-**Deep Learning Risk Analysis**
-- [Tiresias: Predicting Security Events Through Deep Learning](https://ar-sec.cs.washington.edu/files/arsec-lebeck-sp18.pdf), CCS, 2018
+- [Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms](https://www.usenix.org/system/files/sec19-zhou.pdf), USENIX Security, 2019
 
-- [RiskTeller: Predicting the Risk of Cyber Incidents](https://acmccs.github.io/papers/p1299-bilgeA.pdf), CCS, 2017
+- [Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps](https://www.usenix.org/system/files/sec19-wang-xueqiang_0.pdf), USENIX Security, 2019
 
-- [DeepLog: Anomaly Detection and Diagnosis from System Logs
-through Deep Learning](https://www.cs.utah.edu/~lifeifei/papers/deeplog.pdf), CCS, 2017
+- [All Things Considered: An Analysis of IoT Devices on Home Networks](https://www.usenix.org/system/files/sec19-kumar-deepak_0.pdf), USENIX Security, 2019
 
-- [Predictive Analysis in Network Function Virtualization](http://delivery.acm.org/10.1145/3280000/3278547/p161-Li.pdf?ip=130.127.49.242&id=3278547&acc=OPEN&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1542125782_3be15ce762b2e8f2012f3b1007985fa7), IMC, 2017
+- [Not Everything is Dark and Gloomy: Power Grid Protections Against IoT Demand Attacks](https://www.usenix.org/system/files/sec19-huang.pdf), USENIX Security, 2019
 
-- [IoTRiskAnalyzer: A Probabilistic Model Checking
-Based Framework for Formal Risk Analytics
-of the Internet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7906503), IEEE Access, 2017
-
-- [LEMNA: Explaining Deep Learning based Security Applications](http://people.cs.vt.edu/gangwang/ccs18.pdf), IEEE Access, 2018
-
-**Model Checking**
-- [IotSan: Fortifying the Safety of IoT Systems](https://arxiv.org/pdf/1810.09551.pdf), CoNEXT, 2018
+- [FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation](https://www.usenix.org/system/files/sec19-zheng_0.pdf), USENIX Security, 2019
 
 - [SOTERIA: Automated IoT Safety and Security Analysis](https://www.usenix.org/system/files/conference/atc18/atc18-celik.pdf), USENIX ATC, 2018
-of the Internet of Things], IEEE Access, 2017
+of the Internet of Things], USENIX Security, 2019
 
-**Fuzzing:**
+- [Understanding and Improving Security and Privacy in Multi-User Smart Homes: A Design Exploration and In-Home User Study](https://www.usenix.org/system/files/sec19-zeng.pdf), USENIX Security, 2019
 
-https://github.com/cpuu/awesome-fuzzing#papers
+- [Evaluating the Contextual Integrity of Privacy Regulation: Parents' IoT Toy Privacy Norms Versus COPPA](https://www.usenix.org/system/files/sec19fall_apthorpe_prepub.pdf), USENIX Security, 2019
 
-**Surveys:**
+- [Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT](https://web.cse.ohio-state.edu/~lin.3021/file/SEC20a.pdf), USENIX Security, 2020
 
-- [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT)](https://arxiv.org/pdf/1807.11023.pdf), Security arXiv, 2017
+- [SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants](https://www.usenix.org/system/files/sec20summer_quinonez_prepub.pdf), USENIX Security, 2020
 
-- [Towards Security and Privacy for Multi-User
-Augmented Reality: Foundations with End Users](https://ar-sec.cs.washington.edu/files/arsec-lebeck-sp18.pdf), IEEE S&P, 2018
+
+
+
+- [IOTREPAIR: Systematically Addressing Device Faults in Commodity IoT](https://arxiv.org/pdf/2002.07641.pdf), Security arXiv, 2020
+
+- [Real-time Analysis of Privacy-(un)aware IoT Applications
+](https://arxiv.org/pdf/1911.10461.pdf), Security arXiv, 2020
+
+- [Multi-User Multi-Device-Aware Access Control System for Smart Home](https://arxiv.org/pdf/1911.10186.pdf), Security arXiv, 2020
