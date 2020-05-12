@@ -11,16 +11,12 @@ It is a list of IoT security papers from recent top conferences.
 **App Vulnerabilities:**
 - [Real-time Analysis of Privacy-(un)aware IoT Applications](https://arxiv.org/pdf/1911.10461.pdf), Security arXiv, 2020
 
-- [Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms](https://www.usenix.org/system/files/sec19-zhou.pdf), USENIX Security, 2019
-
 - [Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps](https://www.usenix.org/system/files/sec19-wang-xueqiang_0.pdf), USENIX Security, 2019
 
-- [Charting the Attack Surface of Trigger-Action IoT Platforms](https://adambates.org/documents/Wang_Ccs19.pdf), CCS, 2019
-
-- [If This Then What? Controlling Flows in IoT Apps](http://delivery.acm.org/10.1145/3250000/3243841/p1102-bastys.pdf?ip=130.127.49.242&id=3243841&acc=OPEN&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1542127402_7347f80f43130f7a4ba9369ed5037384), CCS, 2018
+- [If This Then What? Controlling Flows in IoT Apps](https://www.cse.chalmers.se/~andrei/ccs18.pdf), CCS, 2018
 
 
-**Network or Protocol Vulnerabilities:**
+**Device or Network Vulnerabilities:**
 - [SoK: Security Evaluation of Home-Based IoT Deployments](https://astrolavos.gatech.edu/articles/sok_sp19.pdf), IEEE S&P, 2019
 
 - [Burglars' IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds](http://homes.sice.indiana.edu/luyixing/bib/oakland20-mqtt.pdf), IEEE S&P, 2020
@@ -32,6 +28,12 @@ It is a list of IoT security papers from recent top conferences.
 - [All Things Considered: An Analysis of IoT Devices on Home Networks](https://www.usenix.org/system/files/sec19-kumar-deepak_0.pdf), USENIX Security, 2019
 
 - [HoMonit: Monitoring Smart Home Apps from Encrypted Traffic](http://web.cse.ohio-state.edu/~zhang.5840/assets/CCS2018/ccs18.pdf), CCS , 2018
+
+**Inter-app or Platform Vulnerabilities:**
+- [Charting the Attack Surface of Trigger-Action IoT Platforms](https://adambates.org/documents/Wang_Ccs19.pdf), CCS, 2019
+
+
+- [Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms](https://www.usenix.org/system/files/sec19-zhou.pdf), USENIX Security, 2019
 
 
 **Firmware Vulnerabilities:**
