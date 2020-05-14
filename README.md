@@ -27,6 +27,8 @@ It is a list of IoT security papers from recent top conferences.
 
 - [Packet-Level Signatures for Smart Home Devices](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24097-paper.pdf), NDDS, 2020
 
+- [BadBluetooth: Breaking Android Security Mechanisms via Malicious Bluetooth Peripherals](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_06B-4_Xu_paper.pdf), NDSS, 2020
+
 - [All Things Considered: An Analysis of IoT Devices on Home Networks](https://www.usenix.org/system/files/sec19-kumar-deepak_0.pdf), USENIX Security, 2019
 
 - [HoMonit: Monitoring Smart Home Apps from Encrypted Traffic](http://web.cse.ohio-state.edu/~zhang.5840/assets/CCS2018/ccs18.pdf), CCS , 2018
