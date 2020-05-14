@@ -1,6 +1,8 @@
 It is a list of IoT security papers from recent top conferences. 
 
 **Access Control:**
+- [TKPERM: Cross-platform Permission Knowledge Transfer to Detect Overprivileged Third-party Applications](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24287-paper.pdf), NDSS, 2020
+
 - [Multi-User Multi-Device-Aware Access Control System for Smart Home](https://arxiv.org/pdf/1911.10186.pdf), Security arXiv, 2020
 
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf), NDSS, 2019
@@ -43,6 +45,10 @@ It is a list of IoT security papers from recent top conferences.
 
 
 **Voice Assitant:**
+- [Metamorph: Injecting Inaudible Commands into Over-the-air Voice Controlled Systems](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23055-paper.pdf), NDSS, 2020
+
+- [SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24068-paper.pdf), NDSS, 2020
+
 - [Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems](https://xianghang.me/files/voice_assistant.pdf), IEEE S&P, 2019
 
 
@@ -70,6 +76,8 @@ It is a list of IoT security papers from recent top conferences.
 
 
 **Others:**
+- [Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23053-paper.pdf), NDSS, 2020
+
 - [Pinto: Enabling Video Privacy for Commodity IoT Cameras](https://dl.acm.org/doi/pdf/10.1145/3243734.3243830), CCS, 2018
 
 - [Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT](https://web.cse.ohio-state.edu/~lin.3021/file/SEC20a.pdf), USENIX Security, 2020
