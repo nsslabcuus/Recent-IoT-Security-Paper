@@ -41,6 +41,8 @@ It is a list of IoT security papers from recent top conferences.
 
 
 **Firmware Vulnerabilities:**
+- [Dominance as a New Trusted Computing Primitive for the Internet of Things](https://www.computer.org/csdl/proceedings-article/sp/2019/666000b223/19skggDcR0s), IEEE S&P, 2019
+
 - [FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation](https://www.usenix.org/system/files/sec19-zheng_0.pdf), USENIX Security, 2019
 
 - [IOTREPAIR: Systematically Addressing Device Faults in Commodity IoT](https://arxiv.org/pdf/2002.07641.pdf), Security arXiv, 2020
