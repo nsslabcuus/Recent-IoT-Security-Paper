@@ -48,14 +48,6 @@ It is a list of IoT security papers from recent top conferences.
 - [IOTREPAIR: Systematically Addressing Device Faults in Commodity IoT](https://arxiv.org/pdf/2002.07641.pdf), Security arXiv, 2020
 
 
-**Voice Assitant:**
-- [Metamorph: Injecting Inaudible Commands into Over-the-air Voice Controlled Systems](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23055-paper.pdf), NDSS, 2020
-
-- [SurfingAttack: Interactive Hidden Attack on Voice Assistants Using Ultrasonic Guided Waves](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24068-paper.pdf), NDSS, 2020
-
-- [Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems](https://xianghang.me/files/voice_assistant.pdf), IEEE S&P, 2019
-
-
 **Botnet:**
 - [Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf), NDSS, 2019
 
