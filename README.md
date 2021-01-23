@@ -9,7 +9,7 @@ It is a list of IoT security papers from recent top conferences.
 
 - [Situational Access Control in the Internet of Things](https://www.cs.cornell.edu/~shmat/shmat_ccs18.pdf), CCS, 2018
 
-- [HAWatcher: Semantics-Aware Anomaly Detection for Appified Smart Homes](https://www.usenix.org/system/files/sec21summer_fu.pdf), USENIX Security, 2019
+- [HAWatcher: Semantics-Aware Anomaly Detection for Appified Smart Homes](https://www.usenix.org/system/files/sec21summer_fu.pdf), USENIX Security, 2021
 
 - [PFirewall: Semantics-Aware Customizable Data Flow Control for Home Automation Systems](https://arxiv.org/pdf/1910.07987.pdf), NDSS, 2021
 
