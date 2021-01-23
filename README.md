@@ -45,6 +45,7 @@ It is a list of IoT security papers from recent top conferences.
 - [Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms](https://www.usenix.org/system/files/sec19-zhou.pdf), USENIX Security, 2019
 
 
+
 **Firmware Vulnerabilities:**
 - [Dominance as a New Trusted Computing Primitive for the Internet of Things](https://www.computer.org/csdl/proceedings-article/sp/2019/666000b223/19skggDcR0s), IEEE S&P, 2019
 
@@ -89,4 +90,4 @@ It is a list of IoT security papers from recent top conferences.
 
 - [T2Pair: Secure and Usable Pairing for Heterogeneous IoT Devices](https://cse.sc.edu/~zeng1/papers/2020-ccs-t2pair.pdf), CCS, 2020
 
-
+- [Peeves: Physical Event Verification in Smart Homes](https://beerkay.github.io/cs590S20/content/papers/birnbach.pdf), CCS, 2019
