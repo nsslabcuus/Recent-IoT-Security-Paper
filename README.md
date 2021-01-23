@@ -80,3 +80,8 @@ It is a list of IoT security papers from recent top conferences.
 
 - [SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants](https://www.usenix.org/system/files/sec20summer_quinonez_prepub.pdf), USENIX Security, 2020
 
+- [Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses](https://www.adwaitnadkarni.com/pdf/manandhar-oakland20.pdf), IEEE S&P, 2020
+
+- [How Risky Are Real Users' IFTTT Applets?](https://www.usenix.org/system/files/soups2020-cobb.pdf), Soups, 2020
+
+
