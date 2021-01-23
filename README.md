@@ -9,6 +9,8 @@ It is a list of IoT security papers from recent top conferences.
 
 - [Situational Access Control in the Internet of Things](https://www.cs.cornell.edu/~shmat/shmat_ccs18.pdf), CCS, 2018
 
+- [PFirewall: Semantics-Aware Customizable Data Flow Control for Home Automation Systems](https://arxiv.org/pdf/1910.07987.pdf), NDSS, 2021
+
 
 **App Vulnerabilities:**
 - [Real-time Analysis of Privacy-(un)aware IoT Applications](https://arxiv.org/pdf/1911.10461.pdf), Security arXiv, 2020
