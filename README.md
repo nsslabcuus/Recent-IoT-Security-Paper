@@ -45,6 +45,8 @@ It is a list of IoT security papers from recent top conferences.
 - [Discovering and Understanding the Security Hazards in the Interactions between IoT Devices, Mobile Apps, and Clouds on Smart Home Platforms](https://www.usenix.org/system/files/sec19-zhou.pdf), USENIX Security, 2019
 
 
+- [IoTRemedy: Non-Intrusive Rule Decomposition for User Privacy in Modern IoT Platforms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141818), ITOEC, 2020
+
 
 **Firmware Vulnerabilities:**
 - [Dominance as a New Trusted Computing Primitive for the Internet of Things](https://www.computer.org/csdl/proceedings-article/sp/2019/666000b223/19skggDcR0s), IEEE S&P, 2019
