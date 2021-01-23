@@ -84,4 +84,6 @@ It is a list of IoT security papers from recent top conferences.
 
 - [SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants](https://www.usenix.org/system/files/sec20summer_quinonez_prepub.pdf), USENIX Security, 2020
 
+- [T2Pair: Secure and Usable Pairing for Heterogeneous IoT Devices](https://cse.sc.edu/~zeng1/papers/2020-ccs-t2pair.pdf), CCS, 2020
+
 
