@@ -72,6 +72,8 @@ It is a list of IoT security papers from recent top conferences.
 
 - [Security Update Labels: Establishing Economic Incentives for Security Patching of IoT Consumer Products](https://arxiv.org/pdf/1906.11094.pdf),IEEE S&P, 2020
 
+- [How Risky Are Real Users' IFTTT Applets?](https://www.usenix.org/system/files/soups2020-cobb.pdf), Soups, 2020
+
 
 **Others:**
 - [Et Tu Alexa? When Commodity WiFi Devices Turn into Adversarial Motion Sensors](https://www.ndss-symposium.org/wp-content/uploads/2020/02/23053-paper.pdf), NDSS, 2020
@@ -81,9 +83,5 @@ It is a list of IoT security papers from recent top conferences.
 - [Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT](https://web.cse.ohio-state.edu/~lin.3021/file/SEC20a.pdf), USENIX Security, 2020
 
 - [SAVIOR: Securing Autonomous Vehicles with Robust Physical Invariants](https://www.usenix.org/system/files/sec20summer_quinonez_prepub.pdf), USENIX Security, 2020
-
-- [Towards a Natural Perspective of Smart Homes for Practical Security and Safety Analyses](https://www.adwaitnadkarni.com/pdf/manandhar-oakland20.pdf), IEEE S&P, 2020
-
-- [How Risky Are Real Users' IFTTT Applets?](https://www.usenix.org/system/files/soups2020-cobb.pdf), Soups, 2020
 
 
