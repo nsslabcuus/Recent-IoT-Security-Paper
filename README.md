@@ -3,7 +3,7 @@ It is a list of IoT security papers from recent top conferences.
 **Access Control:**
 - [TKPERM: Cross-platform Permission Knowledge Transfer to Detect Overprivileged Third-party Applications](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24287-paper.pdf), NDSS, 2020
 
-- [Multi-User Multi-Device-Aware Access Control System for Smart Home](https://arxiv.org/pdf/1911.10186.pdf), Security arXiv, 2020
+- [Multi-User Multi-Device-Aware Access Control System for Smart Home](https://arxiv.org/pdf/1911.10186.pdf), WiSec, 2020
 
 - [IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_07A-1_Celik_paper.pdf), NDSS, 2019
 
