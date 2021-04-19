@@ -1,5 +1,8 @@
 It is a list of IoT security papers from recent top conferences. 
 
+**Alexa Control:**
+- [A Scalable Neural Shortlisting-Reranking Approach for Large-Scale Domain Classification in Natural Language Understanding](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), 2018
+
 **Access Control:**
 - [TKPERM: Cross-platform Permission Knowledge Transfer to Detect Overprivileged Third-party Applications](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24287-paper.pdf), NDSS, 2020
 
